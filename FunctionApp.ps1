@@ -1,4 +1,4 @@
-#Write-Output "PowerShell function executing at:$(get-date)";
+##Write-Output "PowerShell function executing at:$(get-date)";
 # Input bindings are passed in via param block.
 param($Timer)
 
